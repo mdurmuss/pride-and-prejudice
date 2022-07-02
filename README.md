@@ -3,7 +3,7 @@
 ### Introduction
 This project applies NLP on the book of Pride and Prejudice by Jane Austen.
 
-![Result Image](./wordcloud.png)
+<img src="wordcloud.png" alt="drawing" width="720"/>
 
 #### Libraries
 - [`nltk`](https://www.nltk.org/)
