@@ -1,2 +1,13 @@
 # pride-and-prejudice
-Natural Language Processing on the book of Pride and Prejudice from Project Gutenberg.
+
+### Introduction
+This project applies NLP on the book of Pride and Prejudice by Jane Austen.
+
+![Result Image](./wordcloud.png)
+
+#### Libraries
+- [`nltk`](https://www.nltk.org/)
+- [`wordcloud`](https://amueller.github.io/word_cloud/)
+
+#### References
+- Data: [https://www.gutenberg.org/ebooks/1342](https://www.gutenberg.org/ebooks/1342)
